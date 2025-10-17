@@ -31,8 +31,6 @@ export default class CustomDocument extends Document<DocumentProps> {
             name="google-site-verification"
             content="tRR2TBSsDtHbo6YAtupB0MW-FOd3j9g6r_p_N3dkwVk"
           />
-
-
           {/* We only want to add the scripts if in production */}
           {isProduction && (
             <>
