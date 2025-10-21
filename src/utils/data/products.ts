@@ -99,7 +99,6 @@ export const products = [
       },
     ],
   },
-  
   {
     id: "3",
     name: "GUIDE CHAIN KIT ,BAJAJ",
@@ -150,7 +149,7 @@ export const products = [
       },
     ],
   },
-    {
+  {
     id: "4",
     name: "SHAFT GEAR SHIFT  JA561004",
     vehicle_category: "BAJAJ",
@@ -200,7 +199,6 @@ export const products = [
       },
     ],
   },
-  
   {
     id: "5",
     name: "CARBURETOR ASSY 36222233",
@@ -251,7 +249,6 @@ export const products = [
       },
     ],
   },
-
   {
     id: "6",
     name: "GEAR SPEEDOMETER DD151073",
@@ -424,7 +421,6 @@ export const products = [
       },
     ],
   },
-
   {
     id: "10",
     name: "Gear Shifter Rails Bengaluru, Karnataka",
