@@ -1,6 +1,107 @@
 export const products = [
   {
     id: "1",
+    name: "CLUSTER COVER WHITE DS201073",
+    vehicle_category: "BAJAJ",
+    vehicle_description:
+      "Manufactured in India, this chain kit ensures durability and efficiency. Perfect for Bajaj motorcycles, offering smooth performance and longevity.",
+    productId: "DS201073",
+    price: 119.99,
+    discount: 30,
+    quantityAvailable: 2,
+    category: "T-shirt",
+    currentPrice: 89.99,
+    sizes: ["xl", "l"],
+    colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
+    images: ["/images/products/cluster.jpeg"],
+    punctuation: {
+      countOpinions: 81,
+      punctuation: 4.5,
+      votes: [
+        { value: 1, count: 1 },
+        { value: 2, count: 10 },
+        { value: 3, count: 10 },
+        { value: 4, count: 20 },
+        { value: 5, count: 40 },
+      ],
+    },
+    reviews: [
+      {
+        name: "Amit Sharma",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Good service overall, but the delivery took a bit longer than expected. Could improve on that.</p>",
+        punctuation: 3,
+      },
+      {
+        name: "Priya Patel",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Excellent experience! The product quality is great and customer support is helpful.</p>",
+        punctuation: 5,
+      },
+      {
+        name: "रवी कुमार",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>समान रूप से संतुष्ट हूँ, सब कुछ सही था लेकिन थोड़ा महँगा लगता है।</p>",
+        punctuation: 4,
+      },
+    ],
+  },
+  {
+    id: "2",
+    name: "SHAFT GEAR SHIFT  JA561004",
+    vehicle_category: "BAJAJ",
+    vehicle_description:
+      "Manufactured in India, this chain kit ensures durability and efficiency. Perfect for Bajaj motorcycles, offering smooth performance and longevity.",
+    productId: "JA561004",
+    price: 119.99,
+    discount: 30,
+    quantityAvailable: 2,
+    category: "T-shirt",
+    currentPrice: 89.99,
+    sizes: ["xl", "l"],
+    colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
+    images: ["/images/products/shaft_gear.jpeg"],
+    punctuation: {
+      countOpinions: 81,
+      punctuation: 4.5,
+      votes: [
+        { value: 1, count: 1 },
+        { value: 2, count: 10 },
+        { value: 3, count: 10 },
+        { value: 4, count: 20 },
+        { value: 5, count: 40 },
+      ],
+    },
+    reviews: [
+      {
+        name: "Amit Sharma",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Good service overall, but the delivery took a bit longer than expected. Could improve on that.</p>",
+        punctuation: 3,
+      },
+      {
+        name: "Priya Patel",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Excellent experience! The product quality is great and customer support is helpful.</p>",
+        punctuation: 5,
+      },
+      {
+        name: "रवी कुमार",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>समान रूप से संतुष्ट हूँ, सब कुछ सही था लेकिन थोड़ा महँगा लगता है।</p>",
+        punctuation: 4,
+      },
+    ],
+  },
+  
+  {
+    id: "3",
     name: "GUIDE CHAIN KIT ,BAJAJ",
     vehicle_category: "BAJAJ",
     vehicle_description:
@@ -49,8 +150,160 @@ export const products = [
       },
     ],
   },
+    {
+    id: "4",
+    name: "SHAFT GEAR SHIFT  JA561004",
+    vehicle_category: "BAJAJ",
+    vehicle_description:
+      "Manufactured in India, this chain kit ensures durability and efficiency. Perfect for Bajaj motorcycles, offering smooth performance and longevity.",
+    productId: "JA561004",
+    price: 119.99,
+    discount: 30,
+    quantityAvailable: 2,
+    category: "T-shirt",
+    currentPrice: 89.99,
+    sizes: ["xl", "l"],
+    colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
+    images: ["/images/products/shaft_gear.jpeg"],
+    punctuation: {
+      countOpinions: 81,
+      punctuation: 4.5,
+      votes: [
+        { value: 1, count: 1 },
+        { value: 2, count: 10 },
+        { value: 3, count: 10 },
+        { value: 4, count: 20 },
+        { value: 5, count: 40 },
+      ],
+    },
+    reviews: [
+      {
+        name: "Amit Sharma",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Good service overall, but the delivery took a bit longer than expected. Could improve on that.</p>",
+        punctuation: 3,
+      },
+      {
+        name: "Priya Patel",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Excellent experience! The product quality is great and customer support is helpful.</p>",
+        punctuation: 5,
+      },
+      {
+        name: "रवी कुमार",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>समान रूप से संतुष्ट हूँ, सब कुछ सही था लेकिन थोड़ा महँगा लगता है।</p>",
+        punctuation: 4,
+      },
+    ],
+  },
+  
   {
-    id: "2",
+    id: "5",
+    name: "CARBURETOR ASSY 36222233",
+    vehicle_category: "BAJAJ",
+    vehicle_description:
+      "Manufactured in India, this chain kit ensures durability and efficiency. Perfect for Bajaj motorcycles, offering smooth performance and longevity.",
+    productId: "36222233",
+    price: 109.99,
+    discount: 30,
+    quantityAvailable: 2,
+    category: "T-shirt",
+    currentPrice: 89.99,
+    sizes: ["xl", "l"],
+    colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
+    images: ["/images/products/carburator_assy.jpeg"],
+    punctuation: {
+      countOpinions: 81,
+      punctuation: 4.5,
+      votes: [
+        { value: 1, count: 1 },
+        { value: 2, count: 10 },
+        { value: 3, count: 10 },
+        { value: 4, count: 20 },
+        { value: 5, count: 40 },
+      ],
+    },
+    reviews: [
+      {
+        name: "Amit Sharma",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Good service overall, but the delivery took a bit longer than expected. Could improve on that.</p>",
+        punctuation: 3,
+      },
+      {
+        name: "Priya Patel",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Excellent experience! The product quality is great and customer support is helpful.</p>",
+        punctuation: 5,
+      },
+      {
+        name: "रवी कुमार",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>समान रूप से संतुष्ट हूँ, सब कुछ सही था लेकिन थोड़ा महँगा लगता है।</p>",
+        punctuation: 4,
+      },
+    ],
+  },
+
+  {
+    id: "6",
+    name: "GEAR SPEEDOMETER DD151073",
+    vehicle_category: "BAJAJ",
+    vehicle_description:
+      "Manufactured in India, this chain kit ensures durability and efficiency. Perfect for Bajaj motorcycles, offering smooth performance and longevity.",
+    productId: "DD151073",
+    price: 109.99,
+    discount: 30,
+    quantityAvailable: 2,
+    category: "T-shirt",
+    currentPrice: 89.99,
+    sizes: ["xl", "l"],
+    colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
+    images: ["/images/products/gear_speedometer.jpeg"],
+    punctuation: {
+      countOpinions: 81,
+      punctuation: 4.5,
+      votes: [
+        { value: 1, count: 1 },
+        { value: 2, count: 10 },
+        { value: 3, count: 10 },
+        { value: 4, count: 20 },
+        { value: 5, count: 40 },
+      ],
+    },
+    reviews: [
+      {
+        name: "Amit Sharma",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Good service overall, but the delivery took a bit longer than expected. Could improve on that.</p>",
+        punctuation: 3,
+      },
+      {
+        name: "Priya Patel",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>Excellent experience! The product quality is great and customer support is helpful.</p>",
+        punctuation: 5,
+      },
+      {
+        name: "रवी कुमार",
+        avatar: "/images/comment-1.jpg",
+        description:
+          "<p>समान रूप से संतुष्ट हूँ, सब कुछ सही था लेकिन थोड़ा महँगा लगता है।</p>",
+        punctuation: 4,
+      },
+    ],
+  },
+  {
+    id: "7",
     name: "KIT ENGINE VALVE ,TVS KING",
     productId: "T332010013",
     vehicle_category: "TVS",
@@ -91,7 +344,7 @@ export const products = [
     ],
   },
   {
-    id: "3",
+    id: "8",
     name: "RUSH BOX KIT",
     productId: "K320960",
     vehicle_category: "BOX_KIT",
@@ -132,7 +385,7 @@ export const products = [
     ],
   },
   {
-    id: "4",
+    id: "9",
     name: "REAR BUFFER MARUTI VAN",
     productId: "K320960",
     vehicle_category: "BOX_KIT",
@@ -173,7 +426,7 @@ export const products = [
   },
 
   {
-    id: "5",
+    id: "10",
     name: "Gear Shifter Rails Bengaluru, Karnataka",
     productId: "K320960",
     vehicle_category: "BOX_KIT",
